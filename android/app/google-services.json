@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876318911622",
+    "project_id": "savelives-8f61e",
+    "storage_bucket": "savelives-8f61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876318911622:android:ff300b68e580eec1613507",
+        "android_client_info": {
+          "package_name": "com.shivani.savelives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876318911622-gkrnatk6qvqf7sm58um982pmf17608k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivani.savelives",
+            "certificate_hash": "c3df8acd604b03344df5817357c9866cd023f351"
+          }
+        },
+        {
+          "client_id": "876318911622-k22jctodi2pqelqcon3vijenf9a3mkdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcoby5spjQIE0p38t9TEGXj1UBhIoXjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876318911622-k22jctodi2pqelqcon3vijenf9a3mkdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
